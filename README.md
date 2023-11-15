@@ -9,7 +9,7 @@ https://github.com/im-boyo/celestial-prototype-felix/assets/89608091/ad35babb-49
 
 
 ## Pourquoi?
-Lors du projet final, le but est de détecter lorsqu'une personne entre dans la zone de détection, délimité par un tapis et une spotlight, afin qu'il puisse interagir avec l'oeuvre.
+Lors du projet final, le but est de détecter lorsqu'une personne entre dans la zone de détection, délimité par un tapis et une spotlight, afin qu'il puisse interagir avec l'oeuvre. Il faut aussi vérifier, une fois qu'on aura la toile, comment détecter la distance de la toile en spandex afin de déclencher des événements différents sur les images projetés sur les murs du cyclo. 
 
 
 
@@ -19,7 +19,7 @@ https://github.com/im-boyo/celestial-prototype-felix/assets/89608091/0ef6671a-34
 
 
 ## Comment?
--
+
 
 
 https://github.com/im-boyo/celestial-prototype-felix/assets/89608091/de4a7540-9c68-49b2-bf38-c02d26778431
