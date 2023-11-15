@@ -4,7 +4,7 @@ Utiliser la caméra de la Kinect afin de détecter la présence d'un ou de plusi
 
 
 
-https://github.com/im-boyo/celestial-prototype-felix/assets/89608091/ad35babb-492a-491d-b00d-659d4076bdce
+[!vid1](https://github.com/im-boyo/celestial-prototype-felix/assets/89608091/ad35babb-492a-491d-b00d-659d4076bdce)
 
 
 
