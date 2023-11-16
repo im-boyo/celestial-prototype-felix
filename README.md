@@ -19,8 +19,16 @@ Lors du projet final, le but est de détecter lorsqu'une personne entre dans la 
 
 
 ## Comment?
+Au départ:
+- Raspberry Pi
+- Carte de capture de vidéo
+- Max
 
+Plus tard
+- TouchDesigner
+- Messages OSC
 
+![MicrosoftTeams-image (14)](https://github.com/im-boyo/celestial-prototype-felix/assets/89608091/e0b013e9-4010-4d91-84e9-08ab7049c538)
 
 [!vid3](https://github.com/im-boyo/celestial-prototype-felix/assets/89608091/de4a7540-9c68-49b2-bf38-c02d26778431)
 
